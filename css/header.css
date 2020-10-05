@@ -1,0 +1,32 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    color: #fff;
+}
+
+/*Header*/
+.navbar {
+	padding: 20px 0;
+}
+.navbar-brand {
+	font-weight: 800;
+	font-size: 2em;
+	color: #101010;
+}
+
+.navbar-light .navbar-nav .nav-item .nav-link {
+	color: #262626;
+	padding: 5px 15px;
+	font-weight: 800;
+	text-transform: uppercase;
+}
+
+.navbar-light .navbar-nav .nav-item .nav-link:hover {
+	color: #999999;
+}
+
+.navbar-light .navbar-toggler {
+	border: none;
+	color: #fff;
+	border: 2px solid #7f7f7f;
+	border-radius: 0;
+}
